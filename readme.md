@@ -1,5 +1,3 @@
-# MLLLLM DevOps Repository
-
 ## Machine Learning DevOps Engineer Nanodegree Projects
 
 This repository contains projects and example code created during the Machine Learning DevOps Engineer Nanodegree program at Udacity.
