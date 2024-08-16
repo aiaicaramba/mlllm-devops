@@ -63,7 +63,7 @@ This repository is for personal educational purposes as part of the Udacity Nano
 
 ## License
 
-This project is licensed under the MIT License - see below for details.
+This project is licensed under the MIT License - see below  and [LICENCE](LICENCE) file for details.
 
 ## Acknowledgments
 
