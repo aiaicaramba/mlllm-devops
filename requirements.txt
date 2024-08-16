@@ -1,0 +1,16 @@
+pandas
+matplotlib
+numpy
+scipy
+scikit-learn
+python-dotenv
+pytorch
+torchvision
+torchaudio
+torchtext
+transformers
+sentence-transformers
+nltk
+spacy
+wandb
+
